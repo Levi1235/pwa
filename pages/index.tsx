@@ -103,6 +103,7 @@ const Home: NextPage = () => {
         <h2>Hello3</h2>
         <h2>Hello4</h2>
         <h2>Hello5</h2>
+        <h2>Hello6</h2>
 
         <p className={styles.description}>
           Get started by editing{' '}
